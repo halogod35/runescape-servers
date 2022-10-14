@@ -12,7 +12,7 @@ Runescape in the year 2003 was considered the final years of Runescape Classic b
 | [spkaeros/RSCGo](https://github.com/spkaeros/RSCGo)              | #204         | No           | Go           | Inactive     | A TCP/IP server written in Go 1.12. This server is designed for a slightly modified RSClassic client based on revision 204 of the official version. |
 
 # 2006scape
-2006scape is two years after "Runescape 2". This considered the peak of Runescape.
+2006scape is two years after "Runescape 2". This considered the peak Runescape experience. 2007scape is currently officially hosted by Jagex.
 | Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
 | [luna-rs/luna](https://github.com/luna-rs/luna)                  | #317         | Yes          | Java         | Abandoned    | A highly scalable and efficient Runescape server. Targets revision #317. No longer in development. |
