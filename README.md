@@ -24,11 +24,17 @@ Runescape in the year 2003 was considered the final years of Runescape Classic b
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
 | [luna-rs/luna](https://github.com/luna-rs/luna)                  | #317         | Yes          | Java         | Abandoned    | A highly scalable and efficient Runescape server. Targets revision #317. No longer in development. |
 | [dozmus/runesource](https://github.com/dozmus/runesource)        | #317         | Yes          | Java         | Abandoned    | RuneSource is an open-source server for the popular game RuneScape, written in the Java programming language. Please note that this server is not ready for production - it has minimal content implemented. |
-| [runejs/server](https://github.com/runejs/server)                | #435         | Yes          | TypeScript   | Active       | RuneJS is a RuneScape game server written in TypeScript and JavaScript. The goal of the project is to create a comprehensive game engine, while also providing simple and easy to use content development systems and APIs. |
-| [2006-Scape/2006Scape](https://github.com/2006-Scape/2006Scape)  | #508         | Maybe?       | Java         | Active       | A 2006 Runescape Emulation Server. |
+| [2006-Scape/2006Scape](https://github.com/2006-Scape/2006Scape)  | #317         | Yes          | Java         | Active       | A 2006 Runescape Emulation Server using protocol #508. |
+| [runejs/server](https://github.com/runejs/server)                | #435         | No           | TypeScript   | Active       | RuneJS is a RuneScape game server written in TypeScript and JavaScript. The goal of the project is to create a comprehensive game engine, while also providing simple and easy to use content development systems and APIs. |
+
 
 ## Clients
 * [dozmus/rs317-client](https://github.com/dozmus/rs317-client) - A partially refactored RuneScape client for revision #317.
 
 ## Tools
 * [dozmus/rsps-stress-tester](https://github.com/dozmus/rsps-stress-tester) - A RSPS stress tester for the 317 protocol.
+
+# 2009scape
+| Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
+| ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
+| [2009scape](https://github.com/2009scape)                        | #550         | Yes          | C++          | GitLab       | Open source Runescape 2009 Emulation. |
