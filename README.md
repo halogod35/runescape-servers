@@ -1,8 +1,8 @@
 # Terminology
 * Status:
   * Active - Updated within last 6 months.
-  * Inactive - Updated within last 18 months.
-  * Abandoned - No updates within 2 years (or otherwise stated)
+  * Inactive - Updated within last 2 years.
+  * Abandoned - No updates within 2 years (or otherwise stated).
   * GitLab - Project is hosted on GitLab and mirrored onto GitHub for free advertising.
 * (year)Scape - RuneScape ripped from that year.
 * Oldscape - Old School RuneScape. This is after Jagex added updates to 2007scape.
