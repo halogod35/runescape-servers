@@ -14,7 +14,13 @@ OrginialScape includes many typos and an unrefined playstyle for the truly hardc
 ## Servers
 | Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [Open-RSC/Core-Framework](https://github.com/Open-RSC/Core-Framework) | #???    | Depends      | Java         | Active       | The original RuneScape Classic was closed down and abandoned after 17 years on August 6th, 2018. Through open source black box reverse engineering, the Open RuneScape Classic project team have brought forth Open RuneScape Classic (Open RSC) so that it may be enjoyed by fans once again. |
+| [Open-RSC/Core-Framework](https://github.com/Open-RSC/Core-Framework) | #177    | Depends      | Java         | Active       | The original RuneScape Classic was closed down and abandoned after 17 years on August 6th, 2018. Through open source black box reverse engineering, the Open RuneScape Classic project team have brought forth Open RuneScape Classic (Open RSC) so that it may be enjoyed by fans once again. |
+
+## Clients
+| Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
+| ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
+| [Open-RSC/mudclient38-deob-teavm](Open-RSC/mudclient38-deob-teavm) | #038       | Yes          | Java         | Inactive     | A minimally edited deob of mudclient38 with changes made to support TeaVM for web browser use. |
+| [Open-RSC/mudclient177-deob-teavm](https://github.com/Open-RSC/mudclient177-deob-teavm) | #177 | Yes | Java   | Active       | A minimally edited deob of mudclient177 with changes made to support TeaVM for web browser use. |
 
 # 2003Scape
 Runescape in the year 2003 was considered the final years of Runescape Classic before it becomes "Runescape 2". This refines the rough edges of 2001scape. 
