@@ -1,3 +1,14 @@
+# Terminology
+* Status:
+  * Active - Updated within last 6 months.
+  * Inactive - Updated within last 18 months.
+  * Abandoned - No updates within 2 years (or otherwise stated)
+  * GitLab - Project is hosted on GitLab and mirrored onto GitHub for free advertising.
+* (year)Scape - RuneScape ripped from that year.
+* Oldscape - Old School RuneScape. This is after Jagex added updates to 2007scape.
+* NuScape - EoE/LGBTQ+ version of RuneScape.
+
+
 # 2001scape
 Orginialscape includes many typos and an unrefined playstyle for the truly hardcore.
 ## Servers
@@ -14,7 +25,10 @@ Runescape in the year 2003 was considered the final years of Runescape Classic b
 | [spkaeros/RSCGo](https://github.com/spkaeros/RSCGo)              | #204         | No           | Go           | Inactive     | A TCP/IP server written in Go 1.12. This server is designed for a slightly modified RSClassic client based on revision 204 of the official version. |
 
 ## Clients
-* [2003scape/mudclient204](https://github.com/2003scape/mudclient204) - A mostly-refactored 204 revision of Jagex's abandonware runescape classic client.
+| Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
+| ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
+| [2003scape/rsc-c](https://github.com/2003scape/rsc-c)            | #177/#204    | Yes          | C            | Active       | Runescape Classic client ported to C. |
+| [2003scape/mudclient204](https://github.com/2003scape/mudclient204)| #204       | Yes          | Java         | Active       | A mostly-refactored 204 revision of Jagex's abandonware runescape classic client.|
 
 
 # 2006scape
@@ -35,6 +49,17 @@ Runescape in the year 2003 was considered the final years of Runescape Classic b
 * [dozmus/rsps-stress-tester](https://github.com/dozmus/rsps-stress-tester) - A RSPS stress tester for the 317 protocol.
 
 # 2009scape
+This is after the introduction of the Grand Exchange in 2007. The year after that saw the introduction of PvP Worlds, RuneScape High Detail, Summoning, the first Grandmaster quest, combat minigames, and Distractions and Diversions. 2009 was the year of upgrades, tweaks, improvements, and polishing.
 | Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
 | [2009scape](https://github.com/2009scape)                        | #550         | Yes          | C++          | GitLab       | Open source Runescape 2009 Emulation. |
+
+# Old School Runescape
+This version of runescape goes back to 2007scape, but then restarts the build numbering scheme from #1.
+| Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
+| ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
+| [guthix/OldScape](https://github.com/guthix/OldScape)            | #189         | Yes          | Kotlin       | Inactive     | OldScape is an emulator project that simulates the Oldschool Runescape server. |
+
+
+# Archive
+* [runetech/osrs-gamepacks](https://github.com/runetech/osrs-gamepacks) - Collection of unmodified OldSchool RuneScape gamepacks.
