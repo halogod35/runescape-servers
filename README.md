@@ -44,7 +44,7 @@ Runescape in the year 2003 was considered the final years of Runescape Classic b
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
 | [luna-rs/luna](https://github.com/luna-rs/luna)                  | #317         | Yes          | Java         | $$\textcolor{red}{\text{Abandoned}}$$    | A highly scalable and efficient Runescape server. Targets revision #317. No longer in development. |
 | [dozmus/runesource](https://github.com/dozmus/runesource)        | #317         | Yes          | Java         | $$\textcolor{red}{\text{Abandoned}}$$    | RuneSource is an open-source server for the popular game RuneScape, written in the Java programming language. Please note that this server is not ready for production - it has minimal content implemented. |
-| [2006-Scape/2006Scape](https://github.com/2006-Scape/2006Scape)  | #317         | Yes          | Java         | $$\textcolor{green}{\text{Active}}$$       | A 2006 Runescape Emulation Server using protocol #508. |
+| [2006-Scape/2006Scape](https://github.com/2006-Scape/2006Scape)  | #317         | Yes          | Java         | $$\textcolor{green}{\text{Active}}$$       | A 2006 Runescape Emulation Server. |
 | [runejs/server](https://github.com/runejs/server)                | #435         | No           | TypeScript   | $$\textcolor{green}{\text{Active}}$$       | RuneJS is a RuneScape game server written in TypeScript and JavaScript. The goal of the project is to create a comprehensive game engine, while also providing simple and easy to use content development systems and APIs. |
 
 
