@@ -1,3 +1,5 @@
+This is a master list of all the available open source RuneScape projects. Closed source projects will not be listed here.
+
 # Terminology
 * Status:
   * Active - Updated within last 6 months.
@@ -9,8 +11,8 @@
 * NuScape - EoE/LGBTQ+ version of RuneScape.
 
 
-# 2001scape
-OrginialScape includes many typos and an unrefined playstyle for the truly hardcore.
+# 2001Scape
+OrginialScape includes many typos and an unrefined playstyle for the truly hardcore. If you failed to log out, your progress was not saved. Thankfully, dial-up is a thing of the past.
 ## Servers
 | Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -19,32 +21,43 @@ OrginialScape includes many typos and an unrefined playstyle for the truly hardc
 ## Clients
 | Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [Open-RSC/mudclient38-deob-teavm](Open-RSC/mudclient38-deob-teavm) | #038       | Yes          | Java         | $$\textcolor{yellow}{\text{Inactive}}$$ | A minimally edited deob of mudclient38 with changes made to support TeaVM for web browser use. |
+| [Open-RSC/mudclient38-deob-teavm](Open-RSC/mudclient38-deob-teavm) | #038       | Yes          | Java         | $$\textcolor{yellow}{\text{Inactive}}$$    | A minimally edited deob of mudclient38 with changes made to support TeaVM for web browser use. |
 | [Open-RSC/mudclient177-deob-teavm](https://github.com/Open-RSC/mudclient177-deob-teavm) | #177 | Yes | Java   | $$\textcolor{green}{\text{Active}}$$       | A minimally edited deob of mudclient177 with changes made to support TeaVM for web browser use. |
 
 # 2003Scape
-Runescape in the year 2003 was considered the final years of Runescape Classic before it becomes "Runescape 2". This refines the rough edges of 2001scape. 
+RuneScape in the year 2003 was considered the final years of RuneScape Classic before it becomes "RuneScape 2". This refines the rough edges of 2001scape. 
 ## Servers
 | Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [2003scape/rsc-server](https://github.com/2003scape/rsc-server)  | #204         | Yes          | JavaScript   | $$\textcolor{yellow}{\text{Inactive}}$$     | runescape classic private server mmorpg emulator. designed to work with the web-based rsc-client or the java-based mudclient204. |
+| [2003scape/rsc-server](https://github.com/2003scape/rsc-server)  | #204         | Yes          | JavaScript   | $$\textcolor{yellow}{\text{Inactive}}$$     | RuneScape classic private server mmorpg emulator. designed to work with the web-based rsc-client or the java-based mudclient204. |
 | [spkaeros/RSCGo](https://github.com/spkaeros/RSCGo)              | #204         | No           | Go           | $$\textcolor{yellow}{\text{Inactive}}$$     | A TCP/IP server written in Go 1.12. This server is designed for a slightly modified RSClassic client based on revision 204 of the official version. |
 
 ## Clients
 | Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [2003scape/rsc-c](https://github.com/2003scape/rsc-c)            | #177/#204    | Yes          | C            | $$\textcolor{green}{\text{Active}}$$       | Runescape Classic client ported to C. |
-| [2003scape/mudclient204](https://github.com/2003scape/mudclient204)| #204       | Yes          | Java         | $$\textcolor{green}{\text{Active}}$$       | A mostly-refactored 204 revision of Jagex's abandonware runescape classic client.|
+| [2003scape/rsc-c](https://github.com/2003scape/rsc-c)            | #177/#204    | Yes          | C            | $$\textcolor{green}{\text{Active}}$$       | RuneScape Classic client ported to C. |
+| [2003scape/mudclient204](https://github.com/2003scape/mudclient204)| #204       | Yes          | Java         | $$\textcolor{green}{\text{Active}}$$       | A mostly-refactored 204 revision of Jagex's abandonware RuneScape classic client. |
 
-
-# 2006scape
-2006Scape is two years after "Runescape 2". This considered the peak Runescape experience. 2007scape is currently officially hosted by Jagex.
+# 2004Scape
+RuneScape 2, the major graphical update to the original RuneScape, was officially released on March 29, 2004. This launch marked the beginning of what is now known as RuneScape, with the original game being renamed RuneScape Classic.
 ## Servers
 | Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [luna-rs/luna](https://github.com/luna-rs/luna)                  | #317         | Yes          | Java         | $$\textcolor{red}{\text{Abandoned}}$$    | A highly scalable and efficient Runescape server. Targets revision #317. No longer in development. |
+| [LostCityRS/Server](https://github.com/LostCityRS/Server)        | #225         | Yes          | Typescript   | $$\textcolor{green}{\text{Active}}$$    | The most faithful preservation project in this entire list. No custom features. |
+
+## Clients
+| Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
+| ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
+| [LostCityRS/Client-TS](https://github.com/LostCityRS/Client-TS)  | #225         | Yes          | Typescript   | $$\textcolor{green}{\text{Active}}$$    | Client for LostCityRS. Not really needed as LostCityRS can run in the browser. |
+
+# 2006Scape
+2006Scape is two years after "RuneScape 2". This considered the peak RuneScape experience. 2007scape is currently officially hosted by Jagex.
+## Servers
+| Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
+| ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
+| [luna-rs/luna](https://github.com/luna-rs/luna)                  | #317         | Yes          | Java         | $$\textcolor{red}{\text{Abandoned}}$$    | A highly scalable and efficient RuneScape server. Targets revision #317. No longer in development. |
 | [dozmus/runesource](https://github.com/dozmus/runesource)        | #317         | Yes          | Java         | $$\textcolor{red}{\text{Abandoned}}$$    | RuneSource is an open-source server for the popular game RuneScape, written in the Java programming language. Please note that this server is not ready for production - it has minimal content implemented. |
-| [2006-Scape/2006Scape](https://github.com/2006-Scape/2006Scape)  | #317         | Yes          | Java         | $$\textcolor{green}{\text{Active}}$$       | A 2006 Runescape Emulation Server. |
+| [2006-Scape/2006Scape](https://github.com/2006-Scape/2006Scape)  | #317         | Yes          | Java         | $$\textcolor{green}{\text{Active}}$$       | A 2006 RuneScape Emulation Server. |
 | [runejs/server](https://github.com/runejs/server)                | #435         | No           | TypeScript   | $$\textcolor{green}{\text{Active}}$$       | RuneJS is a RuneScape game server written in TypeScript and JavaScript. The goal of the project is to create a comprehensive game engine, while also providing simple and easy to use content development systems and APIs. |
 
 
@@ -58,13 +71,13 @@ Runescape in the year 2003 was considered the final years of Runescape Classic b
 This is after the introduction of the Grand Exchange in 2007. The year after that saw the introduction of PvP Worlds, RuneScape High Detail, Summoning, the first Grandmaster quest, combat minigames, and Distractions and Diversions. 2009 was the year of upgrades, tweaks, improvements, and polishing.
 | Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [2009scape](https://github.com/2009scape)                        | #550         | Yes          | C++          | $$\textcolor{Blue}{\text{GitLab}}$$       | Open source Runescape 2009 Emulation. |
+| [2009scape](https://github.com/2009scape)                        | #550         | Yes          | C++          | $$\textcolor{Blue}{\text{GitLab}}$$       | Open source RuneScape 2009 Emulation. |
 
 # OldScape
-This version of runescape goes back to 2007scape, but then restarts the build numbering scheme from #1.
+This version of RuneScape goes back to 2007scape, but then restarts the build numbering scheme from #1.
 | Repo                                                             | Build        | Vanilla      | Language     | Status       | About        |
 | ---------------------------------------------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [guthix/OldScape](https://github.com/guthix/OldScape)            | #189         | Yes          | Kotlin       | $$\textcolor{yellow}{\text{Inactive}}$$     | OldScape is an emulator project that simulates the Oldschool Runescape server. |
+| [guthix/OldScape](https://github.com/guthix/OldScape)            | #189         | Yes          | Kotlin       | $$\textcolor{yellow}{\text{Inactive}}$$     | OldScape is an emulator project that simulates the Oldschool RuneScape server. |
 
 
 # Archive
